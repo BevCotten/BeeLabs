@@ -1,0 +1,6 @@
+print("My name is Beverly")
+print("I work at USAA")
+print("I am studying Computer Science")
+print("I will build amazing software")
+print("I am studying Computer Science at SNHU")
+print("Welcome to BeeLabs")
