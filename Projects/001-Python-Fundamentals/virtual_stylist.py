@@ -1,9 +1,12 @@
 import random
-print("✨ Welcome to Bee's Virtual Stylist ✨")
 
-name = input("Client's name: ")
-occasion = input("Where are you going—work, date, or brunch? ").strip().lower()
-weather = input("Is it hot or cold? ").strip().lower()
+def get_answer(question):
+    return input(question).strip().lower() 
+
+print("✨ Welcome to Bee's Virtual Stylist ✨")
+name = input("Client's name: ").strip().title()
+occasion = get_answer("Where are you going—work, date, or brunch? ")
+weather = get_answer("Is it hot or cold? ")
 
 print(f"\nStyling {name}...")
 
@@ -34,10 +37,8 @@ print(f"✨ {name}, you should wear {outfit}.")
 print(f"Your surprise accessory is: {surprise_accessory}! 💎")
 style_score = random.randint(8, 10)
 print(f"Runway score: {style_score}/10 🔥")
-decision = input().strip().lower()
-
 while True:
-    decision = input("\nChoose: approve or restyle: ").strip().lower()
+    decision = get_answer("\nChoose: approve or restyle: ")
 
     if decision == "approve":
         print("✅ Look approved! You're ready to turn heads.")
