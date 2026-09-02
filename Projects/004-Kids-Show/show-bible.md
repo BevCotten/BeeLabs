@@ -25,6 +25,11 @@ Each episode will help children practice concepts such as:
 - Healthy routines and independence
 
 The lessons will be taught through playful stories, music, repetition, and movement.
+## Project Origin
+
+*Limi Lights Up!* began with an original children’s-show idea from **James**. Bee developed the characters, world, educational purpose, visual identity, and stories from that foundation.
+
+The project is inspired by their family and their shared love for their children.
 ## Main Character
 
 The main character is a curious human toddler who learns by exploring, asking questions, making small mistakes, and trying again.
@@ -190,6 +195,20 @@ Jazz is inspired by Mimi’s appearance, personality, and relationship with her 
 
 Maya is Limi and Jazz’s mother. She is warm, observant, playful, and honest. She helps Limi understand emotions and routines while encouraging him to solve age-appropriate problems.
 
+### Maya’s Locked Design Features
+
+- Black woman in her mid-30s
+- Appearance inspired by Bee
+- Warm deep-brown complexion
+- Expressive brown eyes and bright smile
+- Long side-parted black microbraids
+- Terracotta ribbed top
+- Cream wide-leg trousers
+- Cream sneakers with caramel accents
+- Simple gold studs, round pendant, and bracelet
+- Warm signature palette: terracotta, cream, caramel, and gold
+- Polished, nurturing, playful presence
+
 #### Limi Sr.
 
 Limi Sr. is Limi and Jazz’s father. Little Limi is named after him, making the main character **Limi Jr.**, although everyone usually calls him Limi.
@@ -197,6 +216,36 @@ Limi Sr. is Limi and Jazz’s father. Little Limi is named after him, making the
 Limi Sr. is funny, involved, patient, and practical. He turns everyday responsibilities into games and reminds Limi that making a mistake is part of learning.
 
 Maya and Limi Sr. work as a team. Both parents comfort, teach, play, set boundaries, and sometimes apologize when they get something wrong.
+
+### Limi Sr.’s Locked Design Features
+
+- Black man in his late 30s
+- Appearance inspired by James
+- Approximately 6'2" with an athletic build
+- Warm medium-deep brown complexion
+- Dark expressive eyes
+- Crisp low waves
+- Sharp full beard and mustache
+- Small diamond stud earrings
+- Cobalt-blue textured overshirt
+- Crisp white T-shirt
+- Tailored charcoal cargo trousers
+- White sneakers with original cobalt accents
+- Gold chains, bracelet, wedding band, and signature diamond statement ring
+- Signature palette: cobalt, charcoal, white, and gold
+- Strong, stylish, playful, and emotionally safe presence
+### Ms. Toni’s Locked Design Features
+
+- Older Black masculine-presenting woman
+- Warm deep-brown complexion
+- Kind brown eyes and reassuring smile
+- Short salt-and-pepper tapered locs
+- Deep-plum button-down shirt
+- Charcoal barber apron with electric-lime piping
+- Tailored charcoal trousers
+- Cream-and-plum sneakers
+- Silver watch and small stud earrings
+- Calm, comforting, experienced presence
 ## Working Title
 
 # Limi Lights Up!
@@ -222,6 +271,10 @@ The following designs are approved and should be used to keep Limi visually cons
 
 - `assets/limi-character-concept.png`
 - `assets/limi-expression-sheet.png`
+- `assets/ms-toni-character-concept.png`
+- `assets/maya-character-concept.png`
+- `assets/limi-sr-character-concept.png`
+
 
 ### Locked Design Features
 
