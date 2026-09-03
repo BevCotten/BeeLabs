@@ -60,6 +60,8 @@
 **Visual:** Maya, Limi Sr., Jazz, and Limi enter the warm neighborhood barbershop together. Limi notices the mirrors, chairs, barber pole, combs, customers, and clippers.  
 **Emotion:** Curious but uncertain  
 **Learning Beat:** Preparing for a new environment  
+![Panel 6 — Arriving at the barbershop](panel-06-arriving-at-barbershop.png)
+
 
 ### Panel 7 — Meeting Ms. Toni
 
