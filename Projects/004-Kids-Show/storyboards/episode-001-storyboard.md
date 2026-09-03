@@ -69,6 +69,7 @@
 **Visual:** Ms. Toni kneels slightly and offers Limi a choice between a high five, fist bump, or wave. Limi chooses a fist bump while his family remains nearby.  
 **Emotion:** Cautious but beginning to trust  
 **Learning Beat:** Children can choose how they greet someone  
+![Panel 7 — Meeting Ms. Toni](panel-07-meeting-ms-toni.png)
 
 ### Panel 8 — Hearing the Clippers
 
@@ -76,6 +77,7 @@
 **Visual:** Ms. Toni turns on the clippers from a safe distance. Limi raises his shoulders while Limi Sr. and Jazz model a slow calming breath.  
 **Emotion:** Nervous but supported  
 **Learning Beat:** Smell the flower, blow out the candle  
+![Panel 8 — Hearing the clippers](panel-08-hearing-the-clippers.png)
 
 ### Panel 9 — “Break, Please”
 
@@ -83,6 +85,7 @@
 **Visual:** Loose hair makes Limi’s neck feel itchy. He raises his hand and asks for a break. Ms. Toni immediately turns off the clippers and brushes away the loose hair.  
 **Emotion:** Uncomfortable, then relieved  
 **Learning Beat:** Use words to communicate what your body needs  
+![Panel 9 — Break, please](panel-09-break-please.png)
 
 ### Panel 10 — Wiggle Break
 
@@ -90,6 +93,7 @@
 **Visual:** Limi takes a safe movement break. He wiggles his arms, stomps three times, reaches high, and breathes while Jazz and the audience join him.  
 **Emotion:** Playful relief  
 **Learning Beat:** Movement can help the body reset  
+![Panel 10 — Wiggle Break](panel-10-wiggle-break.png)
 
 ### Panel 11 — Still-as-a-Statue Game
 
@@ -97,13 +101,15 @@
 **Visual:** Limi returns to the chair and sits tall while everyone counts slowly from one to five. Ms. Toni completes the final section of his haircut.  
 **Emotion:** Focused and determined  
 **Learning Beat:** Counting and body control  
+![Panel 11 — Still-as-a-Statue Game](panel-11-still-as-a-statue.png)
 
 ### Panel 12 — Mirror Reveal
 
 **Shot:** Over-the-shoulder view toward the mirror  
 **Visual:** Limi sees his full 4B curls and fresh shape-up for the first time. Maya, Limi Sr., Jazz, and Ms. Toni watch his reaction.  
 **Emotion:** Proud, relieved, and delighted  
-**Dialogue:** “That’s me! I look fresh!”  
+**Dialogue:** “That’s me! I look fresh!” 
+![Panel 12 — Mirror Reveal](panel-12-mirror-reveal.png) 
 
 ### Panel 13 — Light It Up
 
@@ -111,3 +117,4 @@
 **Visual:** Limi, Jazz, Maya, Limi Sr., and Ms. Toni dance together as the light symbol on Limi’s shirt gives off a gentle lime glow.  
 **Emotion:** Joyful and accomplished  
 **Dialogue:** “We learned something new—and now we shine!”
+![Panel 13 — Light It Up](panel-13-light-it-up.png)

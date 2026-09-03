@@ -406,6 +406,7 @@ Limi raises one finger in the air.
 
 A soft lime glow shines around the light symbol as Limi does a happy dance.
 
+
 ## Closing Sequence Review
 
 Limi reviews the haircut sequence with the audience:

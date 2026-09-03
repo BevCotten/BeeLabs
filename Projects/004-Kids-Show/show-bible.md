@@ -12,6 +12,7 @@ The show will use:
 - Bright, friendly visuals
 - Short stories
 - Gentle educational and emotional lessons
+
 ## Show Purpose
 
 The show combines early learning with emotional and everyday life skills.
@@ -25,21 +26,25 @@ Each episode will help children practice concepts such as:
 - Healthy routines and independence
 
 The lessons will be taught through playful stories, music, repetition, and movement.
+
 ## Project Origin
 
 *Limi Lights Up!* began with an original children’s-show idea from **James**. Bee developed the characters, world, educational purpose, visual identity, and stories from that foundation.
 
 The project is inspired by their family and their shared love for their children.
+
 ## Main Character
 
 The main character is a curious human toddler who learns by exploring, asking questions, making small mistakes, and trying again.
 
 The toddler speaks directly to the audience and invites children to answer questions, sing, move, count, and solve simple problems during each adventure.
+
 ## Character Inspiration
 
 The main character is inspired by Sani’s curiosity, personality, energy, and experience of discovering the world as a toddler.
 
 The character will feel authentic and relatable while remaining a fictionalized version created specifically for the show.
+
 ## Character Name
 
 The main character’s name is **Limi** (pronounced **LEE-mee**).
@@ -55,6 +60,7 @@ Limi’s name is inspired by the Haitian Creole word *limyè*, meaning **light**
 - Sometimes impatient
 - Willing to try again
 - Excited to include the audience
+
 ## Limi’s Appearance
 
 Limi is a Black toddler with:
@@ -66,6 +72,7 @@ Limi is a Black toddler with:
 - A face that clearly shows curiosity, excitement, confusion, frustration, and pride
 
 His expressions help young viewers recognize and name emotions throughout each episode.
+ 
 ## Limi’s Signature Style
 
 Limi has a fresh, sporty toddler style.
