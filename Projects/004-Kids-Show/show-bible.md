@@ -1,4 +1,4 @@
-# Kids’ Show Bible
+# Adventures with Limi — Show Bible
 
 ## Target Audience
 
@@ -29,7 +29,7 @@ The lessons will be taught through playful stories, music, repetition, and movem
 
 ## Project Origin
 
-*Limi Lights Up!* began with an original children’s-show idea from **James**. Bee developed the characters, world, educational purpose, visual identity, and stories from that foundation.
+*Adventures with Limi* began with an original children’s-show idea from **James**. Bee developed the characters, world, educational purpose, visual identity, and stories from that foundation.
 
 The project is inspired by their family and their shared love for their children.
 
@@ -125,6 +125,20 @@ His family helps him make sense of the real world without immediately solving ev
 - **Big Sister:** Protective, honest, and patient; she helps Limi understand things from a child-friendly perspective
 
 The family experiences ordinary moments together, including meals, errands, celebrations, disagreements, routines, and new experiences.
+
+## Tiggy
+
+Tiggy is Limi’s beloved stuffed tiger and comfort companion. Limi brings Tiggy along when an experience feels new, uncertain, or intimidating.
+
+Tiggy does not speak independently. Instead, Limi and his family use pretend play with Tiggy to rehearse unfamiliar routines, explain new experiences, and help Limi express feelings that may be difficult to name. Tiggy supports the learning without replacing Limi’s own courage, choices, or voice.
+
+### Tiggy’s Story Role
+
+- Helps Limi practice unfamiliar experiences through pretend play
+- Provides familiar comfort without being treated as a magical solution
+- Encourages sequencing, emotional expression, and imaginative learning
+- Remains small enough for Limi to carry naturally
+- Appears when the story benefits from comfort or rehearsal rather than in every scene
 ### Big Sister
 
 Limi’s big sister is a teenager. Despite their age difference, they share a close, playful bond.
@@ -213,6 +227,7 @@ Maya is Limi and Jazz’s mother. She is warm, observant, playful, and honest. S
 - Cream wide-leg trousers
 - Cream sneakers with caramel accents
 - Simple gold studs, round pendant, and bracelet
+- Gold wedding band
 - Warm signature palette: terracotta, cream, caramel, and gold
 - Polished, nurturing, playful presence
 
@@ -253,9 +268,9 @@ Maya and Limi Sr. work as a team. Both parents comfort, teach, play, set boundar
 - Cream-and-plum sneakers
 - Silver watch and small stud earrings
 - Calm, comforting, experienced presence
-## Working Title
+## Official Series Title
 
-# Limi Lights Up!
+# Adventures with Limi
 
 **Tagline:** *Every new thing helps us shine.*
 
@@ -278,6 +293,7 @@ The following designs are approved and should be used to keep Limi visually cons
 
 - `assets/limi-character-concept.png`
 - `assets/limi-expression-sheet.png`
+- `assets/jazz-character-concept.png`
 - `assets/ms-toni-character-concept.png`
 - `assets/maya-character-concept.png`
 - `assets/limi-sr-character-concept.png`
@@ -294,3 +310,28 @@ The following designs are approved and should be used to keep Limi visually cons
 - Purple basketball shorts with lime trim
 - White socks and original purple-and-lime sneakers
 - Premium 3D preschool-animation style
+
+## Music and Sound
+
+**Original Music Creator and Music Producer:** James “J-Killz” Cotten
+
+The music of *Adventures with Limi* blends playful rhythm, warm melodies, movement-friendly beats, and emotionally supportive musical cues. Original songs help children remember each episode’s lesson while giving the series a distinctive family-created sound.
+
+### Official Theme Song
+
+**Title:** “Adventures with Limi”  
+**Creators and Vocalists:** Bee and James Cotten  
+**Music Artist/Producer:** James “J-Killz” Cotten  
+**Tempo:** 104 BPM  
+**Key:** C major  
+**Core Progression:** C–G–Am–F  
+**Approximate Runtime:** 21 seconds
+
+The theme should feel bright, warm, rhythmic, and welcoming. It introduces Limi’s world with family-created music and leads naturally into each everyday adventure.
+
+### Approved Theme Masters
+
+- `audio/adventures-with-limi-theme-master-02.wav` — production master
+- `audio/adventures-with-limi-theme-master-02.mp3` — listening and sharing copy
+
+**Artist Profile:** [iamjkillz on SoundCloud](https://soundcloud.com/iamjkillz)

@@ -2,11 +2,14 @@
 
 ## Episode Information
 
-**Series:** *Limi Lights Up!*
+**Series:** *Adventures with Limi*
 **Episode:** 001
 **Title:** “Limi’s First Haircut”
 **Audience:** Ages 2–4
 **Estimated Runtime:** 8–10 minutes
+**Theme Song:** “Adventures with Limi”
+**Theme Song Creators and Vocalists:** Bee and James Cotten
+**Music Artist/Producer:** James “J-Killz” Cotten
 
 ## Learning Goals
 
@@ -24,7 +27,19 @@
 * **Maya**
 * **Limi Sr.**
 * **Ms. Toni**
-* **Mr. Curls**, Limi’s stuffed tiger
+* **Tiggy**, Limi’s beloved stuffed tiger and comfort companion
+
+---
+
+## Opening Title Sequence
+
+**Music Cue:** “Adventures with Limi” theme song (approximately 21 seconds)
+
+A warm purple-and-electric-lime glow sweeps across the screen. Limi follows a trail of tiny lights through quick glimpses of everyday adventures with his family. He turns toward the audience, smiles, and raises one hand as the series title appears.
+
+**ON-SCREEN TITLE:** *Adventures with Limi*
+
+The final musical beat carries us into Limi’s bedroom.
 
 ---
 
@@ -162,24 +177,24 @@ Nervous…and brave?
 **JAZZ**
 Exactly. Being brave means trying even when something feels new.
 
-Jazz notices Mr. Curls, Limi’s stuffed tiger, sitting on the bed.
+Jazz notices Tiggy, Limi’s stuffed tiger, sitting on the bed.
 
 **JAZZ**
-I have an idea. Let’s show Mr. Curls what happens during a haircut.
+I have an idea. Let’s show Tiggy what happens during a haircut.
 
 Limi smiles.
 
 **LIMI**
-Mr. Curls needs a fresh cut!
+Tiggy needs a fresh cut!
 
 ---
 
-## Scene 4 — Practicing With Mr. Curls
+## Scene 4 — Practicing With Tiggy
 
 **Location:** Limi’s bedroom floor
 **Storyboard Panel:** 4
 
-Jazz and Limi sit on the floor with Mr. Curls between them.
+Jazz and Limi sit on the floor with Tiggy between them.
 
 Jazz wraps a small towel around the stuffed tiger like a barber cape. Limi holds pretend clippers.
 
@@ -196,7 +211,7 @@ Four colorful symbols appear:
 **JAZZ**
 First, you sit in the chair.
 
-Limi places Mr. Curls on a small chair.
+Limi places Tiggy on a small chair.
 
 **LIMI**
 Sit in the chair!
@@ -204,7 +219,7 @@ Sit in the chair!
 **JAZZ**
 Next, the barber puts on the cape.
 
-They fasten the pretend cape around Mr. Curls.
+They fasten the pretend cape around Tiggy.
 
 **LIMI**
 Cape on!
@@ -212,7 +227,7 @@ Cape on!
 **JAZZ**
 Then, you hear the clippers.
 
-Limi moves the pretend clippers near Mr. Curls.
+Limi moves the pretend clippers near Tiggy.
 
 **LIMI**
 Buzzzzzzz!
@@ -222,10 +237,10 @@ They giggle.
 **JAZZ**
 Last, you look in the mirror.
 
-Limi holds a small mirror in front of Mr. Curls.
+Limi holds a small mirror in front of Tiggy.
 
 **LIMI**
-Looking fresh, Mr. Curls!
+Looking fresh, Tiggy!
 
 Jazz turns toward the audience.
 
@@ -242,7 +257,7 @@ Last—the mirror!
 See? Now we know what to expect.
 
 **LIMI**
-Can Mr. Curls come too?
+Can Tiggy come too?
 
 **JAZZ**
 Absolutely.
@@ -256,7 +271,7 @@ Limi hugs his stuffed tiger.
 **Location:** Family kitchen
 **Storyboard Panel:** 5
 
-The family sits together at the breakfast table. Mr. Curls sits safely nearby.
+The family sits together at the breakfast table. Tiggy sits safely nearby.
 
 Limi pokes at his fruit.
 
@@ -309,7 +324,7 @@ Let’s light it up!
 
 The family approaches the warm, welcoming barbershop.
 
-Limi holds Mr. Curls in one arm and Limi Sr.’s hand with the other.
+Limi holds Tiggy in one arm and Limi Sr.’s hand with the other.
 
 Limi slows down at the entrance.
 
@@ -357,10 +372,10 @@ Ms. Toni approaches with a warm smile. She lowers herself closer to Limi’s hei
 **MS. TONI**
 Well, hello there! You must be Limi.
 
-Limi holds Mr. Curls close.
+Limi holds Tiggy close.
 
 **LIMI**
-This is Mr. Curls.
+This is Tiggy.
 
 **MS. TONI**
 It’s very nice to meet both of you.
@@ -407,7 +422,7 @@ Limi nods.
 **Location:** Barber chair
 **Storyboard Panel:** 8
 
-Limi sits in the barber chair with Mr. Curls nearby.
+Limi sits in the barber chair with Tiggy nearby.
 
 Ms. Toni fastens the cape gently around him.
 
@@ -780,6 +795,10 @@ We learned something new—
 **EVERYONE**
 —and now we shine!
 
-The family laughs and continues dancing as the screen fills with a warm purple-and-lime glow.
+The family laughs and continues dancing as the screen fills with a warm purple-and-electric-lime glow.
+
+**MUSIC CUE:** A short instrumental reprise of the “Adventures with Limi” theme plays over the closing title card.
+
+**ON-SCREEN TITLE:** *Adventures with Limi*
 
 ## End of Episode
