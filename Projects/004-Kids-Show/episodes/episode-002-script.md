@@ -332,15 +332,17 @@ He looks at Maya.
 Maya stays close without rushing him.
 
 **MAYA**
-You choose.
+You choose, baby. I’m right here with you.
 
 Limi hugs Tiggy, thinks, then points toward the chair.
 
 **LIMI**
 The chair.
 
+Maya smiles warmly and gives his hand a gentle squeeze.
+
 **MAYA**
-Okay. I’ll stay right here.
+Okay, my love. I’ll be right beside you.
 
 Limi climbs into the chair. Tiggy rests motionless on his lap.
 
