@@ -369,7 +369,7 @@ His eyes follow it.
 Dr. Miles notices.
 
 **DR. MILES**
-This light helps me see your smile.
+This light is really bright. I know it might look a little scary, but it doesn’t hurt. It just helps me see your smile.
 
 Dr. Miles positions the light toward his own gloved hand first.
 
