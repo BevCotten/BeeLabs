@@ -300,7 +300,12 @@ Limi smiles at Dr. Miles.
 **LIMI**
 It’s nice to meet you, Dr. Miles. Can we do a fist bump?
 
-Dr. Miles smiles and holds out his fist.
+Dr. Miles smiles.
+
+**DR. MILES**
+Thank you for telling me which greeting you’re comfortable with.
+
+Dr. Miles holds out his fist.
 
 Limi gives Dr. Miles a fist bump.
 
