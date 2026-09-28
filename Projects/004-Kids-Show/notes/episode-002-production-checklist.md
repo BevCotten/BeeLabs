@@ -67,6 +67,36 @@ Use the filenames already listed in the storyboard. Every visual begins with:
 
 Do not use vague names such as `new-panel.png`, `final-final.png`, or `image-3.png`.
 
+## Mandatory Character Prompt Format
+
+Before describing the action, fully identify every visible character. Each character block must include:
+
+- Name, role, and age
+- Exact height or height relative to the other characters
+- Body build and age-appropriate proportions
+- Complexion and undertone
+- Face shape, eyebrows, eye shape and color, nose, lips, jawline, chin, smile, and facial hair
+- Hair color, texture, density, length, part, hairline, and exact style
+- Every clothing item with its exact color, fit, trim, graphic, fabric, and layer
+- Shoes, socks, jewelry, rings, earrings, watches, and other accessories
+- Normal personality, posture, and signature facial expression
+- Scene-specific pose, gaze, emotion, action, and object placement
+- A final list of features the model must not add, remove, duplicate, recolor, resize, age, or redesign
+
+Place the prompt information in this order:
+
+1. Locked character descriptions
+2. Approved background
+3. Action and emotion
+4. Speaker and mouth rules
+5. Camera and lighting
+6. Continuity requirements
+7. Negative restrictions
+
+Never depend only on “same character,” “same outfit,” or “as before.” Attach the approved reference image whenever possible and repeat the essential locked features in writing.
+
+Specific prompts reduce AI errors but do not eliminate them. Inspect and approve each panel before spending credits on animation.
+
 ## Hedra Rules for Every Dialogue Clip
 
 - Only the named speaker lip-syncs.
