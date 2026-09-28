@@ -9,7 +9,7 @@ Use this file as the step-by-step working guide in VS Code.
 - [x] Thirteen-panel storyboard drafted
 - [x] Approve the final episode title: *Limi’s First Dental Visit*
 - [x] Approve the dentist’s name: Dr. Miles
-- [ ] Create and approve Dr. Miles’ character reference
+- [x] Create and approve Dr. Miles’ character reference — V4 locked as canonical design
 - [ ] Create and approve the home bathroom background
 - [ ] Create and approve the realistic dental-office background
 - [ ] Write the complete episode script
