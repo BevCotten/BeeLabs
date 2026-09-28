@@ -412,7 +412,7 @@ This is a tiny mirror for looking at teeth.
 He turns it slowly so Limi can see its shape.
 
 **DR. MILES**
-See? It’s just a little mirror.
+See? It’s a mirror that shows me different angles of your teeth.
 
 Dr. Miles gently touches the back of the mirror to his own gloved fingertip.
 
