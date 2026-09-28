@@ -125,7 +125,7 @@
 ### Panel 9 — The Bright Light
 
 **Shot:** Limi’s point-of-view toward Dr. Miles and the overhead light  
-**Visual:** Dr. Miles turns the light toward her own gloved hand first. He lets Limi see the circle of light before positioning it above him.  
+**Visual:** Dr. Miles turns the light toward his own gloved hand first. He lets Limi see the circle of light before positioning it above him.  
 **Emotion:** Curious rather than startled  
 **Learning Beat:** Tell it, show it, then try it  
 **Dialogue:** “This light helps me see your smile. Would you like to see it first?”
