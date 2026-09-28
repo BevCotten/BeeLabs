@@ -11,7 +11,7 @@ Use this file as the step-by-step working guide in VS Code.
 - [ ] Approve the dentist’s name
 - [ ] Create and approve Dr. Nia’s character reference
 - [ ] Create and approve the home bathroom background
-- [ ] Create and approve the dental-office background
+- [ ] Create and approve the realistic dental-office background
 - [ ] Write the complete episode script
 - [ ] Record and approve the full master audio
 - [ ] Create final panels
@@ -22,7 +22,7 @@ Use this file as the step-by-step working guide in VS Code.
 ## Important: Follow This Order
 
 1. **Lock Dr. Nia first.** Do not generate finished dental-office scenes until her face, hair, complexion, outfit, jewelry, age, and proportions are approved.
-2. **Lock both backgrounds.** Use one established home bathroom and one established dental office throughout the episode.
+2. **Lock both backgrounds.** Use one established home bathroom and one realistic pediatric dental office throughout the episode. The office must resemble a place children may actually visit.
 3. **Write the complete script.** Confirm every speaker and line before cutting audio.
 4. **Create one complete master audio track.** Listen to the entire track before clipping anything.
 5. **Create a timing sheet.** Record the exact start and end time of every line.
@@ -78,6 +78,16 @@ Do not use vague names such as `new-panel.png`, `final-final.png`, or `image-3.p
 - Do not animate mirrors or create new reflections.
 - Tiggy remains completely motionless and inanimate.
 
+## Dental Office Reality Rules
+
+- Use a recognizable reception area and treatment room based on real pediatric dental practices.
+- Choose warm white, soft beige, pale gray, light wood, muted blue, or muted teal for the environment.
+- Use an ordinary dental chair, overhead examination light, sink, cabinetry, tray, gloves, bib, small mirror, and other standard equipment.
+- Keep child-friendly décor modest: a few books, toys, or dental posters are enough.
+- Do not use neon lighting, fantasy machinery, oversized cartoon props, glowing walls, or futuristic controls.
+- Do not make the room entirely purple or electric lime.
+- Keep Limi’s clothing in the established purple and electric-lime palette so he remains visually recognizable without changing the office itself.
+
 ## Continuity Review Before Animating
 
 For every panel, confirm:
@@ -92,7 +102,8 @@ For every panel, confirm:
 - [ ] The dental chair matches earlier dental-office panels
 - [ ] Tools have not changed color, size, or design
 - [ ] No extra characters appear in the room or mirror
-- [ ] The background matches the approved location reference
+- [ ] The background matches the approved realistic dental-office reference
+- [ ] The office has no neon palette, fantasy equipment, or excessive themed decorations
 - [ ] The intended speaker is the only character positioned to lip-sync
 
 ## Credit-Saving Plan
