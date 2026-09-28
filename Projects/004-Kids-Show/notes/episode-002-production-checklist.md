@@ -8,8 +8,8 @@ Use this file as the step-by-step working guide in VS Code.
 - [x] Core lesson selected: “Show me first, then I can try.”
 - [x] Thirteen-panel storyboard drafted
 - [x] Approve the final episode title: *Limi’s First Dental Visit*
-- [ ] Approve the dentist’s name
-- [ ] Create and approve Dr. Nia’s character reference
+- [x] Approve the dentist’s name: Dr. Miles
+- [ ] Create and approve Dr. Miles’ character reference
 - [ ] Create and approve the home bathroom background
 - [ ] Create and approve the realistic dental-office background
 - [ ] Write the complete episode script
@@ -21,7 +21,7 @@ Use this file as the step-by-step working guide in VS Code.
 
 ## Important: Follow This Order
 
-1. **Lock Dr. Nia first.** Do not generate finished dental-office scenes until her face, hair, complexion, outfit, jewelry, age, and proportions are approved.
+1. **Lock Dr. Miles first.** Do not generate finished dental-office scenes until her face, hair, complexion, outfit, jewelry, age, and proportions are approved.
 2. **Lock both backgrounds.** Use one established home bathroom and one realistic pediatric dental office throughout the episode. The office must resemble a place children may actually visit.
 3. **Write the complete script.** Confirm every speaker and line before cutting audio.
 4. **Create one complete master audio track.** Listen to the entire track before clipping anything.
@@ -40,12 +40,12 @@ Use this file as the step-by-step working guide in VS Code.
 | 3 | Limi Has Questions | Let Limi voice uncertainty | Separate every speaker; wide shot stays silent | [ ] |
 | 4 | New-Thing Plan | Teach ask, look, try | Jazz and Limi in separate clips | [ ] |
 | 5 | Arrival | Establish the dental office | Silent B-roll | [ ] |
-| 6 | Meet Dr. Nia | Introduce the dentist | Dr. Nia only | [ ] |
-| 7 | Greeting Choice | Give Limi control | Separate Dr. Nia and Limi | [ ] |
+| 6 | Meet Dr. Miles | Introduce the dentist | Dr. Miles only | [ ] |
+| 7 | Greeting Choice | Give Limi control | Separate Dr. Miles and Limi | [ ] |
 | 8 | Chair Choice | Show a manageable choice | Dialogue close-ups plus silent chair B-roll | [ ] |
-| 9 | Bright Light | Demonstrate the light | Dr. Nia only | [ ] |
-| 10 | Tiny Mirror | Demonstrate the mirror | Dr. Nia only | [ ] |
-| 11 | Count Teeth | Add audience participation | Dr. Nia off-camera; Limi does not lip-sync | [ ] |
+| 9 | Bright Light | Demonstrate the light | Dr. Miles only | [ ] |
+| 10 | Tiny Mirror | Demonstrate the mirror | Dr. Miles only | [ ] |
+| 11 | Count Teeth | Add audience participation | Dr. Miles off-camera; Limi does not lip-sync | [ ] |
 | 12 | Show Me Again | Model asking for another demonstration | Limi-only line plus silent tool B-roll | [ ] |
 | 13 | Sparkly Smile | Celebrate the lesson | Limi line and family response generated separately | [ ] |
 
@@ -54,7 +54,7 @@ Use this file as the step-by-step working guide in VS Code.
 Use the same long, searchable naming pattern for every audio clip:
 
 - `adventures-with-limi-episode-002-scene-02-limi-the-dentist.mp3`
-- `adventures-with-limi-episode-002-scene-06-dr-nia-introduction.mp3`
+- `adventures-with-limi-episode-002-scene-06-dr-miles-introduction.mp3`
 - `adventures-with-limi-episode-002-scene-12-limi-show-me-again-please.mp3`
 
 Never overwrite a clip that needs correcting. Add a clear suffix such as `-extended`, `-corrected`, or `-v2` until the correct version is confirmed.
@@ -126,7 +126,7 @@ For every panel, confirm:
 - [ ] Limi has one diamond stud and the correct outfit
 - [ ] Limi wears exactly one pair of approved shoes
 - [ ] Maya, Limi Sr., and Jazz match their approved references
-- [ ] Dr. Nia matches her final approved reference
+- [ ] Dr. Miles matches her final approved reference
 - [ ] Tiggy has the correct curly tuft and fixed black button eyes
 - [ ] Tiggy is not posed as though he is alive
 - [ ] The dental chair matches earlier dental-office panels
@@ -141,7 +141,7 @@ For every panel, confirm:
 - Use still panels for establishing shots and reaction moments.
 - Animate only the lines that need visible lip-sync.
 - Use silent B-roll for the chair rising, the overhead light, tool demonstrations, and the smile reveal.
-- Test one short Dr. Nia clip and one short Limi clip before generating longer scenes.
+- Test one short Dr. Miles clip and one short Limi clip before generating longer scenes.
 - Approve each character and background before creating multiple shots from it.
 
 ## Final Quality Check
