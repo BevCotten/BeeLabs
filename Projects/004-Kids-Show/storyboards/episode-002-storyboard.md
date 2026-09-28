@@ -24,10 +24,12 @@
 - Warm, colorful 3D preschool-animation style
 - Two primary locations only: the family home and the pediatric dental office
 - Camera remains near Limi’s height so toddlers experience the visit with him
-- Purple and electric-lime accents connect the dental office to the established series palette
+- The family home retains the established series continuity, but the dental office does not use the show’s purple and electric-lime palette as environmental décor
+- The dental office resembles a real pediatric practice with warm white or soft beige walls, light wood or white cabinetry, an ordinary gray, blue, or muted-teal dental chair, standard overhead lighting, and clean white or stainless-steel equipment
 - Limi wears his approved deep-purple and electric-lime outfit, diamond stud, white socks, and purple/lime sneakers
 - Limi’s feelings must remain visible through his eyes, shoulders, hands, and posture
-- The dental office feels clean, welcoming, and child-friendly without appearing clinical or frightening
+- The dental office feels clean, calm, recognizable, and gently child-friendly, using only modest details such as a few dental posters, books, or ordinary toys
+- Avoid neon lighting, fantasy equipment, oversized cartoon decorations, futuristic technology, or a theme-park appearance
 - Dental tools remain visually accurate, simplified, clean, and nonthreatening
 - Do not show needles, drills, cavities, blood, restraint, pain, or emergency treatment
 - Tiggy remains an inanimate stuffed tiger with a curly tuft and fixed black button eyes
@@ -83,7 +85,7 @@
 ### Panel 5 — Arriving at the Dentist
 
 **Shot:** Wide establishing view inside the dental reception area  
-**Visual:** Limi enters holding Maya’s hand and carrying Tiggy securely under his other arm. Jazz and Limi Sr. follow behind. Purple and electric-lime details make the office feel familiar and welcoming.  
+**Visual:** Limi enters holding Maya’s hand and carrying Tiggy securely under his other arm. Jazz and Limi Sr. follow behind. The reception area resembles a real pediatric dental office with warm neutral walls, practical seating, a reception counter, a few children’s books, and modest dental-themed artwork.  
 **Emotion:** Cautious but interested  
 **Production Note:** This is silent B-roll. Nobody lip-syncs.
 
@@ -181,7 +183,8 @@ Family: “We learned something new—and now we shine!”
 - Keep one visible speaking character per dialogue clip whenever possible.
 - Never use a long group audio clip for automatic multi-character lip-sync.
 - Build group scenes from isolated dialogue close-ups, silent reaction shots, and B-roll.
-- Lock the approved dental-office background before generating the full sequence.
+- Lock the approved realistic dental-office background before generating the full sequence.
+- Do not recolor the office purple or electric lime; those colors remain on Limi and established brand elements only.
 - Lock Dr. Nia’s appearance before creating any final panels.
 - Lock each dental tool design and maintain its scale, color, and position across shots.
 - Use silent inserts for the moving chair, overhead light, tool demonstrations, and mirror reveal.
