@@ -279,7 +279,7 @@ Hi, Limi. I’m Dr. Miles.
 Dr. Miles smiles warmly.
 
 **DR. MILES**
-My job is to help keep your smile healthy.
+I check little teeth and care for big smiles.
 
 Limi listens while holding Tiggy.
 
@@ -693,6 +693,4 @@ For dental care recommendations specific to your child, ask your pediatric denti
 - Dr. Miles must retain his locked V4 appearance with smooth cheeks and no dimples.
 - Use the final approved orange-chair dental-office reference and continuity sheet.
 - Keep the X-ray monitor on the rear counter and the X-ray machine/lens on its separate adjustable arm.
-- The episode depicts a calm routine visit. Do not introduce needles, drills, pain, cavities, blood, restraint, or treatment for a dental problem.
-- Sound effects should remain soft and nonthreatening.
-- Audience pauses should be long enough for preschool viewers to respond without making the pacing feel stalled.
+- The episode depicts a routine pediatric dental visit and should remain gentle, accurate, and non-threatening.
