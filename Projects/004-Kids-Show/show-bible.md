@@ -256,6 +256,28 @@ Maya and Limi Sr. work as a team. Both parents comfort, teach, play, set boundar
 - Gold chains, bracelet, wedding band, and signature diamond statement ring
 - Signature palette: cobalt, charcoal, white, and gold
 - Strong, stylish, playful, and emotionally safe presence
+### Dr. Miles’ Locked Design Features
+
+- Black male pediatric dentist, approximately 38–42 years old
+- Tall, approximately 6'1", with a relaxed, sturdy build
+- Warm medium-deep brown complexion
+- Friendly oval face with full, smooth cheeks and a rounded jaw
+- No dimples, cheek indentations, or dimple-like smile lines
+- Kind dark-brown almond-shaped eyes
+- Thick, gently arched eyebrows
+- Broad nose and full lips
+- Bright, reassuring smile without dimples
+- Short tapered natural coils with subtle salt-and-pepper color at the temples
+- Neatly trimmed goatee; never a full beard
+- Muted-teal scrub top and matching scrub trousers
+- Clean white undershirt
+- White-and-gray clinical sneakers
+- Simple silver watch and realistic identification badge
+- No earrings, gold chains, wedding ring, or statement rings
+- Patient, playful, observant, respectful, and calm
+- Visually distinct from Limi Sr.; never reuse Limi Sr.’s face, waves, full beard, blue overshirt, jewelry, or body design
+- Voice performed by James with softer delivery, slower pacing, and gentler energy than Limi Sr.
+
 ### Ms. Toni’s Locked Design Features
 
 - Older Black masculine-presenting woman
