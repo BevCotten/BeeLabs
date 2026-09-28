@@ -21,7 +21,7 @@ Use this file as the step-by-step working guide in VS Code.
 
 ## Important: Follow This Order
 
-1. **Lock Dr. Miles first.** Do not generate finished dental-office scenes until her face, hair, complexion, outfit, jewelry, age, and proportions are approved.
+1. **Lock Dr. Miles first.** Do not generate finished dental-office scenes until his face, hair, complexion, outfit, jewelry, age, and proportions are approved.
 2. **Lock both backgrounds.** Use one established home bathroom and one realistic pediatric dental office throughout the episode. The office must resemble a place children may actually visit.
 3. **Write the complete script.** Confirm every speaker and line before cutting audio.
 4. **Create one complete master audio track.** Listen to the entire track before clipping anything.
@@ -126,7 +126,8 @@ For every panel, confirm:
 - [ ] Limi has one diamond stud and the correct outfit
 - [ ] Limi wears exactly one pair of approved shoes
 - [ ] Maya, Limi Sr., and Jazz match their approved references
-- [ ] Dr. Miles matches her final approved reference
+- [ ] Dr. Miles matches his final approved reference
+- [ ] Dr. Miles has smooth cheeks with no dimples, cheek indentations, or dimple-like smile lines
 - [ ] Tiggy has the correct curly tuft and fixed black button eyes
 - [ ] Tiggy is not posed as though he is alive
 - [ ] The dental chair matches earlier dental-office panels
