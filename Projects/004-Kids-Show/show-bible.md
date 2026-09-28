@@ -258,24 +258,24 @@ Maya and Limi Sr. work as a team. Both parents comfort, teach, play, set boundar
 - Strong, stylish, playful, and emotionally safe presence
 ### Dr. Miles’ Locked Design Features
 
-- Black male pediatric dentist, approximately 38–42 years old
-- Tall, approximately 6'1", with a relaxed, sturdy build
-- Warm medium-deep brown complexion
-- Friendly oval face with full, smooth cheeks and a rounded jaw
-- No dimples, cheek indentations, or dimple-like smile lines
-- Kind dark-brown almond-shaped eyes
-- Thick, gently arched eyebrows
-- Broad nose and full lips
-- Bright, reassuring smile without dimples
-- Short tapered natural coils with subtle salt-and-pepper color at the temples
-- Neatly trimmed goatee; never a full beard
-- Muted-teal scrub top and matching scrub trousers
-- Clean white undershirt
-- White-and-gray clinical sneakers
-- Simple silver watch and realistic identification badge
-- No earrings, gold chains, wedding ring, or statement rings
-- Patient, playful, observant, respectful, and calm
-- Visually distinct from Limi Sr.; never reuse Limi Sr.’s face, waves, full beard, blue overshirt, jewelry, or body design
+- Black male pediatric dentist
+- Darker deep-brown complexion
+- Fuller, slightly overweight build with soft, approachable proportions
+- Clearly distinct facial structure from Limi Sr.
+- Smooth cheeks with absolutely no dimples, cheek indentations, or dimple-like smile lines
+- Distinct nose shape that does not resemble Limi Sr.
+- Naturally narrow, relaxed eyelids; calm and attentive rather than sleepy
+- Full natural afro
+- Amber-toned glasses
+- Warm, natural smile showing teeth
+- Teeth should look clean and realistic, never excessively white or artificial
+- Sage scrub top
+- Navy trousers
+- Professional, child-friendly clinical footwear
+- Calm, warm, patient, playful, and reassuring presence
+- Never reuse Limi Sr.’s face, nose, waves, beard, body design, cobalt wardrobe, or signature jewelry
+- No dimples under any expression or camera angle
+- This V4 design is the canonical Dr. Miles reference for Episode 002 and future appearances
 - Voice performed by James with softer delivery, slower pacing, and gentler energy than Limi Sr.
 
 ### Ms. Toni’s Locked Design Features
