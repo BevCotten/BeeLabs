@@ -290,45 +290,19 @@ Limi’s shoulders relax slightly.
 
 ---
 
-## Scene 7 — Limi Chooses His Greeting
+## Scene 7 — Fist Bump
 
 **Location:** Pediatric dental office  
 **Storyboard Panel:** 7
 
-Dr. Miles stays at Limi’s height.
-
-**DR. MILES**
-How would you like to say hello? We can wave, smile, or fist bump.
-
-Three simple visual symbols appear: a waving hand, a smile, and a fist bump.
-
-Cut to Limi.
-
-He considers his choices.
-
-Limi looks toward the audience.
+Limi smiles at Dr. Miles.
 
 **LIMI**
-Which one would you choose?
+It’s nice to meet you, Dr. Miles. Can we do a fist bump?
 
-**PAUSE FOR AUDIENCE RESPONSE**
+Dr. Miles smiles and holds out his fist.
 
-Limi smiles and waves.
-
-**LIMI**
-I choose a wave.
-
-Cut back to Dr. Miles.
-
-Dr. Miles waves.
-
-**DR. MILES**
-Hi, Limi.
-
-Limi waves back.
-
-**LIMI**
-Hi, Dr. Miles.
+Limi gives Dr. Miles a fist bump.
 
 ---
 
