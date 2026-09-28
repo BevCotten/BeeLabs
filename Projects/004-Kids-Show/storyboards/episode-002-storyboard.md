@@ -1,10 +1,10 @@
-# Episode 002 Storyboard — Limi’s First Dentist Visit
+# Episode 002 Storyboard — Limi’s First Dental Visit
 
 ## Series Information
 
 **Series:** *Adventures with Limi*  
 **Episode:** 002  
-**Working Title:** *Limi’s First Dentist Visit*  
+**Official Title:** *Limi’s First Dental Visit*  
 **Target Runtime:** Approximately 6–7 minutes  
 **Storyboard Panels:** 13  
 **Core Lesson:** When something is new, I can ask to see it first.  
