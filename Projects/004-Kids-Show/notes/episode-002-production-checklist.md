@@ -12,7 +12,7 @@ Use this file as the step-by-step working guide in VS Code.
 - [x] Create and approve Dr. Miles’ character reference — V4 locked as canonical design
 - [x] Create and approve the home bathroom background — revised background locked; no stored toothbrushes/toothpaste
 - [ ] Create and approve the realistic dental-office background
-- [ ] Write the complete episode script
+- [x] Write the complete episode script
 - [ ] Record and approve the full master audio
 - [ ] Create final panels
 - [ ] Animate dialogue and B-roll
