@@ -362,43 +362,40 @@ I am on a rocket ship! One, two, three... blast off!
 **Location:** Dental treatment room  
 **Storyboard Panel:** 9
 
-Limi notices the overhead dental light.
-
-His eyes follow it.
-
-Dr. Miles notices.
+Limi notices the overhead dental light and looks up at it. Dr. Miles notices.
 
 **DR. MILES**
 This light is really bright. I know it might look a little scary, but it doesn’t hurt. It just helps me see your smile.
 
-Dr. Miles positions the light toward his own gloved hand first.
-
-A bright circle appears on the glove.
+Dr. Miles gestures toward the light.
 
 **DR. MILES**
-Would you like to see it first?
+Would you like me to show you how it works before I use it?
+
+**LIMI**
+Yes, please.
+
+Dr. Miles shines the light onto his own gloved hand.
+
+**DR. MILES**
+See? It makes a bright circle so I can see everything clearly.
+
+Limi studies the circle of light.
+
+**LIMI**
+Ohhh! It’s like a flashlight!
+
+Dr. Miles smiles.
+
+**DR. MILES**
+Exactly! Are you ready for me to shine it above you?
 
 Limi nods.
 
 **LIMI**
-Show me first.
+I’m ready.
 
-Dr. Miles lets Limi look at the circle of light.
-
-**DR. MILES**
-It’s bright, but it doesn’t touch your teeth.
-
-Limi studies it.
-
-**DR. MILES**
-Ready to try?
-
-**LIMI**
-Then I can try.
-
-**SILENT B-ROLL:** Dr. Miles carefully positions the light above Limi.
-
-Limi looks up curiously.
+**SILENT B-ROLL:** Dr. Miles slowly positions the light above Limi. Limi looks up curiously while Maya stays close beside him.
 
 ---
 
