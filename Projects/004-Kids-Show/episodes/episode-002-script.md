@@ -353,7 +353,7 @@ Limi’s eyes grow wide.
 Then he smiles.
 
 **LIMI**
-I am on a rocket ship! Vroom!
+I am on a rocket ship! Blast off!
 
 ---
 
