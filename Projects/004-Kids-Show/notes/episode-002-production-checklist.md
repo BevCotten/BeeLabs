@@ -1,4 +1,4 @@
-# Episode 002 Production Checklist — Limi’s First Dentist Visit
+# Episode 002 Production Checklist — Limi’s First Dental Visit
 
 Use this file as the step-by-step working guide in VS Code.
 
@@ -7,7 +7,7 @@ Use this file as the step-by-step working guide in VS Code.
 - [x] Episode concept selected: first dentist visit
 - [x] Core lesson selected: “Show me first, then I can try.”
 - [x] Thirteen-panel storyboard drafted
-- [ ] Approve the final episode title
+- [x] Approve the final episode title: *Limi’s First Dental Visit*
 - [ ] Approve the dentist’s name
 - [ ] Create and approve Dr. Nia’s character reference
 - [ ] Create and approve the home bathroom background
