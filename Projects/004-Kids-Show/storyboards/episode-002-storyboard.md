@@ -38,6 +38,7 @@
 - Group shots are primarily silent reaction or transition shots
 - Dialogue animation should feature only one visible speaking character whenever possible
 - Preserve all approved character designs, complexions, hairstyles, clothing, jewelry, proportions, and family continuity
+- Dr. Miles always has smooth cheeks with no dimples, cheek indentations, or dimple-like smile lines
 
 ## Storyboard Panels
 
