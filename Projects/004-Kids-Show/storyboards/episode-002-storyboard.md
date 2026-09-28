@@ -17,7 +17,7 @@
 - Limi Sr.
 - Jazz
 - Tiggy
-- Dr. Nia — working name and design pending approval
+- Dr. Miles
 
 ## Visual Direction
 
@@ -91,20 +91,20 @@
 
 ![Panel 5 — The family arrives at the dentist](adventures-with-limi-episode-002-scene-05-arriving-at-the-dentist.png)
 
-### Panel 6 — Meeting Dr. Nia
+### Panel 6 — Meeting Dr. Miles
 
 **Shot:** Medium view at Limi’s height  
-**Visual:** Dr. Nia sits or kneels several feet from Limi so she does not tower over him. She smiles warmly while keeping her hands relaxed and visible.  
+**Visual:** Dr. Miles sits or kneels several feet from Limi so he does not tower over him. He smiles warmly while keeping his hands relaxed and visible.  
 **Emotion:** Gentle, respectful, and welcoming  
-**Dialogue:** “Hi, Limi. I’m Dr. Nia. My job is to help keep your smile healthy.”  
-**Animation Rule:** Dr. Nia is the only speaking character. Limi listens with his mouth closed.
+**Dialogue:** “Hi, Limi. I’m Dr. Miles. My job is to help keep your smile healthy.”  
+**Animation Rule:** Dr. Miles is the only speaking character. Limi listens with his mouth closed.
 
-![Panel 6 — Limi meets Dr. Nia](adventures-with-limi-episode-002-scene-06-meeting-dr-nia.png)
+![Panel 6 — Limi meets Dr. Miles](adventures-with-limi-episode-002-scene-06-meeting-dr-miles.png)
 
 ### Panel 7 — Limi Chooses His Greeting
 
 **Shot:** Medium two-character view  
-**Visual:** Dr. Nia offers Limi a wave, smile, or fist bump. Limi considers the choices and selects a wave while Tiggy remains still in his arm.  
+**Visual:** Dr. Miles offers Limi a wave, smile, or fist bump. Limi considers the choices and selects a wave while Tiggy remains still in his arm.  
 **Emotion:** Comfortable and in control  
 **Learning Beat:** Children can choose a greeting that feels comfortable  
 **Animation Rule:** Create separate close-ups if both characters have dialogue.
@@ -114,7 +114,7 @@
 ### Panel 8 — Choosing the Chair
 
 **Shot:** Wide view of the dental chair  
-**Visual:** Dr. Nia shows Limi the chair and offers him a simple choice: climb in with Maya nearby or sit on Maya’s lap. Limi chooses the chair while Maya remains close beside him. Tiggy rests motionless on Limi’s lap.  
+**Visual:** Dr. Miles shows Limi the chair and offers him a simple choice: climb in with Maya nearby or sit on Maya’s lap. Limi chooses the chair while Maya remains close beside him. Tiggy rests motionless on Limi’s lap.  
 **Emotion:** Thoughtful, supported, and brave  
 **Learning Beat:** A small choice can make a new experience feel manageable  
 **Production Note:** Animate the chair rising in a separate silent B-roll clip.
@@ -123,40 +123,40 @@
 
 ### Panel 9 — The Bright Light
 
-**Shot:** Limi’s point-of-view toward Dr. Nia and the overhead light  
-**Visual:** Dr. Nia turns the light toward her own gloved hand first. She lets Limi see the circle of light before positioning it above him.  
+**Shot:** Limi’s point-of-view toward Dr. Miles and the overhead light  
+**Visual:** Dr. Miles turns the light toward her own gloved hand first. He lets Limi see the circle of light before positioning it above him.  
 **Emotion:** Curious rather than startled  
 **Learning Beat:** Tell it, show it, then try it  
 **Dialogue:** “This light helps me see your smile. Would you like to see it first?”
 
-![Panel 9 — Dr. Nia demonstrates the dental light](adventures-with-limi-episode-002-scene-09-showing-the-dental-light.png)
+![Panel 9 — Dr. Miles demonstrates the dental light](adventures-with-limi-episode-002-scene-09-showing-the-dental-light.png)
 
 ### Panel 10 — The Tiny Mirror
 
-**Shot:** Close-up of Dr. Nia’s gloved hand and the dental mirror  
-**Visual:** Dr. Nia shows Limi the small round mirror and gently touches it to his fingertip before using it near his mouth. Limi studies it carefully.  
+**Shot:** Close-up of Dr. Miles’s gloved hand and the dental mirror  
+**Visual:** Dr. Miles shows Limi the small round mirror and gently touches it to his fingertip before using it near his mouth. Limi studies it carefully.  
 **Emotion:** Focused and curious  
 **Learning Beat:** Seeing and safely exploring a tool can make it feel less unfamiliar  
 **Dialogue:** “It’s a tiny mirror for looking at teeth.”  
 **Production Note:** Keep the mirror surface neutral; nothing new may appear in its reflection.
 
-![Panel 10 — Dr. Nia shows the tiny mirror](adventures-with-limi-episode-002-scene-10-showing-the-tiny-mirror.png)
+![Panel 10 — Dr. Miles shows the tiny mirror](adventures-with-limi-episode-002-scene-10-showing-the-tiny-mirror.png)
 
 ### Panel 11 — Count Limi’s Teeth
 
 **Shot:** Close-up of Limi reclining comfortably  
-**Visual:** Limi opens wide like a lion while Dr. Nia gently counts his teeth with the mirror. Maya’s hand rests reassuringly on the chair beside him.  
+**Visual:** Limi opens wide like a lion while Dr. Miles gently counts his teeth with the mirror. Maya’s hand rests reassuringly on the chair beside him.  
 **Emotion:** Engaged and proud  
 **Learning Beat:** Audience participation through counting  
 **Interactive Prompt:** “Can you open like a lion? Now count with us!”  
-**Animation Rule:** Dr. Nia speaks from off-camera. Limi keeps his mouth open naturally and does not lip-sync the counting.
+**Animation Rule:** Dr. Miles speaks from off-camera. Limi keeps his mouth open naturally and does not lip-sync the counting.
 
-![Panel 11 — Dr. Nia counts Limi’s teeth](adventures-with-limi-episode-002-scene-11-counting-limis-teeth.png)
+![Panel 11 — Dr. Miles counts Limi’s teeth](adventures-with-limi-episode-002-scene-11-counting-limis-teeth.png)
 
 ### Panel 12 — Show Me Again, Please
 
 **Shot:** Medium close-up of Limi in the chair  
-**Visual:** A gentle cleaning or suction sound surprises Limi. He raises one hand, and Dr. Nia stops immediately. Limi asks to see the tool again. Dr. Nia demonstrates it away from his face before continuing.  
+**Visual:** A gentle cleaning or suction sound surprises Limi. He raises one hand, and Dr. Miles stops immediately. Limi asks to see the tool again. Dr. Miles demonstrates it away from his face before continuing.  
 **Emotion:** Startled, then calm and capable  
 **Learning Beat:** Children can ask questions and request another demonstration  
 **Dialogue:** “Show me again, please.”  
@@ -167,7 +167,7 @@
 ### Panel 13 — Sparkly Smile, Light It Up
 
 **Shot:** Final medium-wide celebration view  
-**Visual:** Limi looks at his clean smile in a handheld mirror. He beams while Maya, Limi Sr., Jazz, and Dr. Nia celebrate behind him. His shirt symbol gives off a gentle electric-lime glow. Tiggy remains motionless in Limi’s arm.  
+**Visual:** Limi looks at his clean smile in a handheld mirror. He beams while Maya, Limi Sr., Jazz, and Dr. Miles celebrate behind him. His shirt symbol gives off a gentle electric-lime glow. Tiggy remains motionless in Limi’s arm.  
 **Emotion:** Proud, joyful, and accomplished  
 **Dialogue:**  
 Limi: “I asked, I looked, and then I tried!”  
@@ -185,7 +185,7 @@ Family: “We learned something new—and now we shine!”
 - Build group scenes from isolated dialogue close-ups, silent reaction shots, and B-roll.
 - Lock the approved realistic dental-office background before generating the full sequence.
 - Do not recolor the office purple or electric lime; those colors remain on Limi and established brand elements only.
-- Lock Dr. Nia’s appearance before creating any final panels.
+- Lock Dr. Miles’s appearance before creating any final panels.
 - Lock each dental tool design and maintain its scale, color, and position across shots.
 - Use silent inserts for the moving chair, overhead light, tool demonstrations, and mirror reveal.
 - Add sound effects during editing rather than asking the animation model to invent them.
