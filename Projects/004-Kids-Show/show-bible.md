@@ -311,6 +311,52 @@ The following designs are approved and should be used to keep Limi visually cons
 - White socks and original purple-and-lime sneakers
 - Premium 3D preschool-animation style
 
+## Mandatory Character Prompt Standard
+
+Every image-generation and animation prompt must include a complete locked description for every visible character. Do not rely only on phrases such as “keep the character the same,” “use the previous design,” or “as before.” Reference images must still be supplied whenever the tool supports them.
+
+### Required Character Details
+
+Describe each visible character in this order:
+
+1. **Identity and role:** Name, age or age range, cultural identity when relevant, and relationship to Limi.
+2. **Height and proportions:** Exact or relative height, build, age-appropriate body proportions, and size relative to the other visible characters.
+3. **Complexion:** Locked skin tone and undertone.
+4. **Facial structure:** Face shape, forehead, cheek shape, jawline, chin, eyebrows, eye shape and color, nose shape, lip shape, smile, facial hair, and any other defining feature.
+5. **Hair:** Color, texture, curl or loc pattern, length, density, part, hairline, style, and any gray or accent color.
+6. **Clothing:** Every garment, its exact color, fit, fabric or texture when visually important, trim, graphics, sleeve length, waist details, and layering.
+7. **Footwear:** Exact shoe type, colors, laces, soles, socks, and the number and placement of shoes.
+8. **Accessories:** Earrings, necklaces, bracelets, watches, rings, wedding bands, hair accessories, glasses, and their exact placement.
+9. **Personality cues:** Normal posture, energy, signature expressions, and the emotional quality the character should communicate.
+10. **Scene-specific state:** Pose, action, expression, direction of gaze, objects held, and whether the character is speaking or listening.
+11. **Locked exclusions:** State exactly what must not be added, removed, recolored, duplicated, resized, aged, or redesigned.
+
+### Prompt Construction Order
+
+Each prompt should follow this order:
+
+1. Locked character descriptions
+2. Approved location and background description
+3. Scene action and emotional beat
+4. Speaker and lip-sync instructions
+5. Camera, framing, and lighting
+6. Object and continuity requirements
+7. Explicit negative restrictions
+
+### Consistency Rules
+
+- Repeat the important locked traits in every prompt, even when a reference image is attached.
+- Name exact colors instead of using vague descriptions such as “bright,” “dark,” or “colorful.”
+- State relative heights whenever two or more characters share a frame.
+- State who is speaking and require every other visible person to keep their mouth closed.
+- Specify the exact number and placement of shoes, earrings, rings, tools, toys, and other easily duplicated objects.
+- Keep established outfits unchanged unless a story-approved wardrobe change is documented first.
+- Use the approved character reference image whenever available.
+- Generate fewer visible characters when accurate identity or lip-sync is more important than a group composition.
+- Inspect every result before animation. Reject facial drift, altered hair, incorrect complexion, changed body proportions, wardrobe changes, missing jewelry, duplicate objects, or extra people.
+
+Detailed prompts and reference images reduce character drift but cannot guarantee that a generative model will never make an error. Every generated panel must still pass the continuity review before it is approved.
+
 ## Music and Sound
 
 **Original Music Creator and Music Producer:** James “J-Killz” Cotten
