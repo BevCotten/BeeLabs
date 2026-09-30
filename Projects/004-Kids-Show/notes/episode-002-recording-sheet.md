@@ -8,6 +8,20 @@
 
 ## Recording Instructions
 
+> **Actor note:** The direction for every line now includes three layers: the emotion to play, how to shape the read, and what the character is trying to communicate. Record the words exactly as approved; use the direction to change the performance, not the dialogue.
+
+## How to Read the Direction
+
+- **Emotional cue** = what the character is feeling in that exact beat.
+- **Delivery** = pacing, emphasis, pauses, volume, and energy.
+- **Character intention** = what the character wants the listener to feel or understand.
+- Keep performances conversational. Avoid a “cartoon voice” unless the script explicitly calls for play, such as Limi’s lion roar or rocket-ship moment.
+- For audience-response lines, speak *to one child*, then leave a genuine response beat.
+
+---
+
+## Recording Instructions
+
 - Record in a quiet room with the same microphone position and gain for each actor.
 - Record each numbered line as a separate clean take when practical.
 - Leave about 1–2 seconds of silence before and after each take.
@@ -26,44 +40,44 @@
 
 | ID | Scene | Dialogue | Direction | Best Take |
 |---|---:|---|---|---|
-| LIMI-01 | 1 | “Aaaaah!” | Mouth wide while brushing; playful. | ☐ |
-| LIMI-02 | 1 | “ROAR!” | Big playful lion roar. | ☐ |
-| LIMI-03 | 1 | “Roar!” | Smaller playful repeat. | ☐ |
-| LIMI-04 | 2 | “The dentist?” | Surprised and uncertain, not frightened. | ☐ |
-| LIMI-05 | 2 | “Have you been to the dentist before?” | Directly to audience; curious. | ☐ |
-| LIMI-06 | 2 | “I have questions.” | Thoughtful. | ☐ |
-| LIMI-07 | 3 | “What happens at the dentist?” | Genuine question. | ☐ |
-| LIMI-08 | 3 | “What if I don’t know what something does?” | Curious and sincere. | ☐ |
-| LIMI-09 | 4 | “Ask...look...try.” | Repeating Jazz’s steps carefully. | ☐ |
-| LIMI-10 | 4 | “...then I can try!” | Completes Jazz’s phrase with confidence. | ☐ |
-| LIMI-11 | 4 | “Can you do it with me?” | Inviting the audience. | ☐ |
-| LIMI-12 | 4 | “Ask!” | Clear audience prompt. | ☐ |
-| LIMI-13 | 4 | “Look!” | Clear audience prompt. | ☐ |
-| LIMI-14 | 4 | “Try!” | Clear audience prompt. | ☐ |
-| LIMI-15 | 4 | “Show me first, then I can try!” | Proud, memorable phrase. | ☐ |
-| LIMI-16 | 4 | “Come on, Tiggy. We have a plan.” | Warmly to Tiggy. | ☐ |
-| LIMI-17 | 7 | “It’s nice to meet you, Dr. Miles. Can we do a fist bump?” | Friendly and increasingly comfortable. | ☐ |
-| LIMI-18 | 8 | “The chair.” | Makes his choice confidently. | ☐ |
-| LIMI-19 | 8 | “I am on a rocket ship! One, two, three... blast off!” | Imaginative and excited; build into “blast off!” | ☐ |
-| LIMI-20 | 9 | “Yes, please.” | Polite, comfortable. | ☐ |
-| LIMI-21 | 9 | “Ohhh! It’s like a flashlight!” | Delighted realization. | ☐ |
-| LIMI-22 | 9 | “I’m ready.” | Calm confidence. | ☐ |
-| LIMI-23 | 10 | “Tiny mirror.” | Studying the tool with curiosity. | ☐ |
-| LIMI-24 | 10 | “I looked...and now I can try.” | Thoughtful, then confident. | ☐ |
-| LIMI-25 | 12 | “Show me again, please.” | Clear self-advocacy; not panicked. | ☐ |
-| LIMI-26 | 12 | “I asked.” | First step; deliberate. | ☐ |
-| LIMI-27 | 12 | “I looked.” | Second step; deliberate. | ☐ |
-| LIMI-28 | 12 | “Now I can try.” | Confident third step. | ☐ |
-| LIMI-29 | 13 | “Ooooh!” | Delighted by his clean smile. | ☐ |
-| LIMI-30 | 13 | “My teeth are shiny!” | Proud and excited. | ☐ |
-| LIMI-31 | 13 | “I asked...” | Remembering his plan. | ☐ |
-| LIMI-32 | 13 | “I looked...” | Continue the rhythm. | ☐ |
-| LIMI-33 | 13 | “And then I tried!” | Proud finish. | ☐ |
-| LIMI-34 | 13 | “Did you practice with me?” | Directly to audience. | ☐ |
-| LIMI-35 | 13 | “We did it!” | Celebratory. | ☐ |
-| LIMI-36 | 13 | “When something is new—” | Sets up family call-and-response. | ☐ |
-| LIMI-37 | 13 | “Show me first, then I can try!” | Strong, joyful lesson recap. | ☐ |
-| LIMI-38 | 13 | “We learned something new—” | Sets up final family response. | ☐ |
+| LIMI-01 | 1 | “Aaaaah!” | **Emotional cue:** Mouth wide while brushing; playful. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-02 | 1 | “ROAR!” | **Emotional cue:** Big playful lion roar. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-03 | 1 | “Roar!” | **Emotional cue:** Smaller playful repeat. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-04 | 2 | “The dentist?” | **Emotional cue:** Surprised and uncertain, not frightened. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-05 | 2 | “Have you been to the dentist before?” | **Emotional cue:** Directly to audience; curious. **Delivery:** Open the end of the line toward the audience and leave a clean beat afterward for children to answer. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-06 | 2 | “I have questions.” | **Emotional cue:** Thoughtful. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-07 | 3 | “What happens at the dentist?” | **Emotional cue:** Genuine question. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-08 | 3 | “What if I don’t know what something does?” | **Emotional cue:** Curious and sincere. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-09 | 4 | “Ask...look...try.” | **Emotional cue:** Repeating Jazz’s steps carefully. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-10 | 4 | “...then I can try!” | **Emotional cue:** Completes Jazz’s phrase with confidence. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-11 | 4 | “Can you do it with me?” | **Emotional cue:** Inviting the audience. **Delivery:** Open the end of the line toward the audience and leave a clean beat afterward for children to answer. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-12 | 4 | “Ask!” | **Emotional cue:** Clear audience prompt. **Delivery:** Open the end of the line toward the audience and leave a clean beat afterward for children to answer. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-13 | 4 | “Look!” | **Emotional cue:** Clear audience prompt. **Delivery:** Open the end of the line toward the audience and leave a clean beat afterward for children to answer. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-14 | 4 | “Try!” | **Emotional cue:** Clear audience prompt. **Delivery:** Open the end of the line toward the audience and leave a clean beat afterward for children to answer. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-15 | 4 | “Show me first, then I can try!” | **Emotional cue:** Proud, memorable phrase. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-16 | 4 | “Come on, Tiggy. We have a plan.” | **Emotional cue:** Warmly to Tiggy. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-17 | 7 | “It’s nice to meet you, Dr. Miles. Can we do a fist bump?” | **Emotional cue:** Friendly and increasingly comfortable. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-18 | 8 | “The chair.” | **Emotional cue:** Makes his choice confidently. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-19 | 8 | “I am on a rocket ship! One, two, three... blast off!” | **Emotional cue:** Imaginative and excited; build into “blast off!” **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-20 | 9 | “Yes, please.” | **Emotional cue:** Polite, comfortable. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-21 | 9 | “Ohhh! It’s like a flashlight!” | **Emotional cue:** Delighted realization. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-22 | 9 | “I’m ready.” | **Emotional cue:** Calm confidence. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-23 | 10 | “Tiny mirror.” | **Emotional cue:** Studying the tool with curiosity. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-24 | 10 | “I looked...and now I can try.” | **Emotional cue:** Thoughtful, then confident. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-25 | 12 | “Show me again, please.” | **Emotional cue:** Clear self-advocacy; not panicked. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-26 | 12 | “I asked.” | **Emotional cue:** First step; deliberate. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-27 | 12 | “I looked.” | **Emotional cue:** Second step; deliberate. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-28 | 12 | “Now I can try.” | **Emotional cue:** Confident third step. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-29 | 13 | “Ooooh!” | **Emotional cue:** Delighted by his clean smile. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-30 | 13 | “My teeth are shiny!” | **Emotional cue:** Proud and excited. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-31 | 13 | “I asked...” | **Emotional cue:** Remembering his plan. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-32 | 13 | “I looked...” | **Emotional cue:** Continue the rhythm. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-33 | 13 | “And then I tried!” | **Emotional cue:** Proud finish. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-34 | 13 | “Did you practice with me?” | **Emotional cue:** Directly to audience. **Delivery:** Open the end of the line toward the audience and leave a clean beat afterward for children to answer. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-35 | 13 | “We did it!” | **Emotional cue:** Celebratory. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-36 | 13 | “When something is new—” | **Emotional cue:** Sets up family call-and-response. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-37 | 13 | “Show me first, then I can try!” | **Emotional cue:** Strong, joyful lesson recap. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
+| LIMI-38 | 13 | “We learned something new—” | **Emotional cue:** Sets up final family response. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi toddler-natural: let the thought form in real time, with small shifts in curiosity, uncertainty, discovery, or pride instead of a polished adult read. | ☐ |
 
 ---
 
@@ -73,17 +87,17 @@
 
 | ID | Scene | Dialogue | Direction | Best Take |
 |---|---:|---|---|---|
-| MAYA-01 | 1 | “Brush, brush, brush.” | Gentle brushing rhythm. | ☐ |
-| MAYA-02 | 1 | “Front teeth...back teeth...and way in the back.” | Patient and instructional. | ☐ |
-| MAYA-03 | 1 | “That is one serious brushing lion.” | Amused, affectionate. | ☐ |
-| MAYA-04 | 1 | “Little kids need a grown-up to help make sure every tooth gets clean.” | Warm and matter-of-fact. | ☐ |
-| MAYA-05 | 2 | “And those teeth are going to be extra clean for Dr. Miles today.” | Off-screen; upbeat and casual. | ☐ |
-| MAYA-06 | 3 | “The dentist checks your teeth and helps keep your mouth healthy.” | Simple reassurance. | ☐ |
-| MAYA-07 | 3 | “Then you ask.” | Supportive and confident. | ☐ |
-| MAYA-08 | 8 | “You choose, baby. I’m right here with you.” | Very warm mother-son moment. | ☐ |
-| MAYA-09 | 8 | “Okay, my love. I’ll be right beside you.” | Loving and reassuring. | ☐ |
-| MAYA-10 | 13 | “You asked when you wanted to understand something.” | Proud of Limi. | ☐ |
-| MAYA-11 | 13 | “I can look.” | Family lesson call-and-response. | ☐ |
+| MAYA-01 | 1 | “Brush, brush, brush.” | **Emotional cue:** Gentle brushing rhythm. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-02 | 1 | “Front teeth...back teeth...and way in the back.” | **Emotional cue:** Patient and instructional. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-03 | 1 | “That is one serious brushing lion.” | **Emotional cue:** Amused, affectionate. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-04 | 1 | “Little kids need a grown-up to help make sure every tooth gets clean.” | **Emotional cue:** Warm and matter-of-fact. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-05 | 2 | “And those teeth are going to be extra clean for Dr. Miles today.” | **Emotional cue:** Off-screen; upbeat and casual. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-06 | 3 | “The dentist checks your teeth and helps keep your mouth healthy.” | **Emotional cue:** Simple reassurance. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-07 | 3 | “Then you ask.” | **Emotional cue:** Supportive and confident. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-08 | 8 | “You choose, baby. I’m right here with you.” | **Emotional cue:** Very warm mother-son moment. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-09 | 8 | “Okay, my love. I’ll be right beside you.” | **Emotional cue:** Loving and reassuring. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-10 | 13 | “You asked when you wanted to understand something.” | **Emotional cue:** Proud of Limi. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
+| MAYA-11 | 13 | “I can look.” | **Emotional cue:** Family lesson call-and-response. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Let Maya’s love for Limi sit underneath the words; reassure through warmth and presence, not worry or babying. | ☐ |
 
 ---
 
@@ -93,10 +107,10 @@
 
 | ID | Scene | Dialogue | Direction | Best Take |
 |---|---:|---|---|---|
-| SR-01 | 3 | “You’ll see a special chair and a bright light so the dentist can see your teeth.” | Calm explanation. | ☐ |
-| SR-02 | 3 | “You don’t have to pretend you understand.” | Reassuring and sincere. | ☐ |
-| SR-03 | 13 | “And you tried when you felt ready.” | Proud and affirming. | ☐ |
-| SR-04 | 13 | “And I can try when I’m ready.” | Family lesson call-and-response. | ☐ |
+| SR-01 | 3 | “You’ll see a special chair and a bright light so the dentist can see your teeth.” | **Emotional cue:** Calm explanation. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi Sr. grounded and steady, like a calm dad giving Limi confidence without taking over the moment. | ☐ |
+| SR-02 | 3 | “You don’t have to pretend you understand.” | **Emotional cue:** Reassuring and sincere. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Keep Limi Sr. grounded and steady, like a calm dad giving Limi confidence without taking over the moment. | ☐ |
+| SR-03 | 13 | “And you tried when you felt ready.” | **Emotional cue:** Proud and affirming. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi Sr. grounded and steady, like a calm dad giving Limi confidence without taking over the moment. | ☐ |
+| SR-04 | 13 | “And I can try when I’m ready.” | **Emotional cue:** Family lesson call-and-response. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Keep Limi Sr. grounded and steady, like a calm dad giving Limi confidence without taking over the moment. | ☐ |
 
 ---
 
@@ -106,16 +120,16 @@
 
 | ID | Scene | Dialogue | Direction | Best Take |
 |---|---:|---|---|---|
-| JAZZ-01 | 3 | “And if you see something you don’t know, you can ask about it.” | Helpful older-sister energy. | ☐ |
-| JAZZ-02 | 3 | “Actually, I have a plan for new things.” | A little playful; she has an idea. | ☐ |
-| JAZZ-03 | 4 | “First—ask.” | Clear and deliberate. | ☐ |
-| JAZZ-04 | 4 | “Next—look.” | Clear and deliberate. | ☐ |
-| JAZZ-05 | 4 | “Then—try when you’re ready.” | Warm emphasis on choice. | ☐ |
-| JAZZ-06 | 4 | “Exactly.” | Encouraging. | ☐ |
-| JAZZ-07 | 4 | “Show me first...” | Slow enough for Limi to complete it. | ☐ |
-| JAZZ-08 | 4 | “That’s your new-thing plan.” | Proud big-sister encouragement. | ☐ |
-| JAZZ-09 | 13 | “What was your new-thing plan?” | Playful prompt. | ☐ |
-| JAZZ-10 | 13 | “I can ask.” | Family lesson call-and-response. | ☐ |
+| JAZZ-01 | 3 | “And if you see something you don’t know, you can ask about it.” | **Emotional cue:** Helpful older-sister energy. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-02 | 3 | “Actually, I have a plan for new things.” | **Emotional cue:** A little playful; she has an idea. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-03 | 4 | “First—ask.” | **Emotional cue:** Clear and deliberate. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-04 | 4 | “Next—look.” | **Emotional cue:** Clear and deliberate. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-05 | 4 | “Then—try when you’re ready.” | **Emotional cue:** Warm emphasis on choice. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-06 | 4 | “Exactly.” | **Emotional cue:** Encouraging. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-07 | 4 | “Show me first...” | **Emotional cue:** Slow enough for Limi to complete it. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-08 | 4 | “That’s your new-thing plan.” | **Emotional cue:** Proud big-sister encouragement. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-09 | 13 | “What was your new-thing plan?” | **Emotional cue:** Playful prompt. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
+| JAZZ-10 | 13 | “I can ask.” | **Emotional cue:** Family lesson call-and-response. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Use supportive big-sister energy: confident enough for Limi to follow, playful enough that it never sounds like a lesson being lectured. | ☐ |
 
 ---
 
@@ -125,29 +139,29 @@
 
 | ID | Scene | Dialogue | Direction | Best Take |
 |---|---:|---|---|---|
-| MILES-01 | 6 | “Hi, Limi. I’m Dr. Miles.” | Friendly introduction at Limi’s level. | ☐ |
-| MILES-02 | 6 | “I check little teeth and care for big smiles.” | Warm, lightly playful rhythm. | ☐ |
-| MILES-03 | 6 | “Before I do anything, I can tell you what it is and show you how it works.” | Calm reassurance. | ☐ |
-| MILES-04 | 7 | “Thank you for telling me which greeting you’re comfortable with.” | Genuine and affirming. | ☐ |
-| MILES-05 | 8 | “This is the dental chair. You can climb in with Mom right beside you, or you can sit on Mom’s lap.” | Present both choices neutrally. | ☐ |
-| MILES-06 | 9 | “This light is really bright. I know it might look a little scary, but it doesn’t hurt. It just helps me see your smile.” | Acknowledge concern without creating fear. | ☐ |
-| MILES-07 | 9 | “Would you like me to show you how it works before I use it?” | Gentle invitation. | ☐ |
-| MILES-08 | 9 | “See? It makes a bright circle so I can see everything clearly.” | Demonstrating, simple and clear. | ☐ |
-| MILES-09 | 9 | “Exactly! Are you ready for me to shine it above you?” | Encouraging, asks permission. | ☐ |
-| MILES-10 | 10 | “This is a tiny mirror for looking at teeth.” | Introduce tool simply. | ☐ |
-| MILES-11 | 10 | “See? It’s a mirror that shows me different angles of your teeth.” | Educational but conversational. | ☐ |
-| MILES-12 | 10 | “Would you like me to use it to look at your teeth?” | Gentle permission check. | ☐ |
-| MILES-13 | 10 | “You got it.” | Warm approval. | ☐ |
-| MILES-14 | 11 | “Can you open wide like a lion?” | Off-screen; playful. | ☐ |
-| MILES-15 | 11 | “Whoa! That is a big lion mouth.” | Off-screen; amused and encouraging. | ☐ |
-| MILES-16 | 11 | “Can everybody help me count while I look?” | Off-screen; invites audience. | ☐ |
-| MILES-17 | 11 | “One...two...three...four...” | Off-screen; slow counting rhythm. | ☐ |
-| MILES-18 | 11 | “Keep counting!” | Off-screen; energetic audience prompt. | ☐ |
-| MILES-19 | 11 | “Great job, Limi. You kept your mouth open while I counted.” | Off-screen; specific praise. | ☐ |
-| MILES-20 | 12 | “This little straw takes away extra water.” | Simple explanation. | ☐ |
-| MILES-21 | 12 | “Would you like to try now?” | Calm permission check. | ☐ |
-| MILES-22 | 13 | “And you did a great job asking questions.” | Proud, warm praise. | ☐ |
-| MILES-23 | 13 | “That is a great way to learn about something new.” | Reinforces lesson naturally. | ☐ |
+| MILES-01 | 6 | “Hi, Limi. I’m Dr. Miles.” | **Emotional cue:** Friendly introduction at Limi’s level. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-02 | 6 | “I check little teeth and care for big smiles.” | **Emotional cue:** Warm, lightly playful rhythm. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-03 | 6 | “Before I do anything, I can tell you what it is and show you how it works.” | **Emotional cue:** Calm reassurance. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-04 | 7 | “Thank you for telling me which greeting you’re comfortable with.” | **Emotional cue:** Genuine and affirming. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-05 | 8 | “This is the dental chair. You can climb in with Mom right beside you, or you can sit on Mom’s lap.” | **Emotional cue:** Present both choices neutrally. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-06 | 9 | “This light is really bright. I know it might look a little scary, but it doesn’t hurt. It just helps me see your smile.” | **Emotional cue:** Acknowledge concern without creating fear. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-07 | 9 | “Would you like me to show you how it works before I use it?” | **Emotional cue:** Gentle invitation. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-08 | 9 | “See? It makes a bright circle so I can see everything clearly.” | **Emotional cue:** Demonstrating, simple and clear. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-09 | 9 | “Exactly! Are you ready for me to shine it above you?” | **Emotional cue:** Encouraging, asks permission. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-10 | 10 | “This is a tiny mirror for looking at teeth.” | **Emotional cue:** Introduce tool simply. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-11 | 10 | “See? It’s a mirror that shows me different angles of your teeth.” | **Emotional cue:** Educational but conversational. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-12 | 10 | “Would you like me to use it to look at your teeth?” | **Emotional cue:** Gentle permission check. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-13 | 10 | “You got it.” | **Emotional cue:** Warm approval. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-14 | 11 | “Can you open wide like a lion?” | **Emotional cue:** Off-screen; playful. **Delivery:** Let the energy rise naturally, but keep the words crisp and understandable for ages 2–4. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-15 | 11 | “Whoa! That is a big lion mouth.” | **Emotional cue:** Off-screen; amused and encouraging. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-16 | 11 | “Can everybody help me count while I look?” | **Emotional cue:** Off-screen; invites audience. **Delivery:** Open the end of the line toward the audience and leave a clean beat afterward for children to answer. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-17 | 11 | “One...two...three...four...” | **Emotional cue:** Off-screen; slow counting rhythm. **Delivery:** Honor the written pauses and rhythm. Do not rush the key words; give each beat its own space. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-18 | 11 | “Keep counting!” | **Emotional cue:** Off-screen; energetic audience prompt. **Delivery:** Open the end of the line toward the audience and leave a clean beat afterward for children to answer. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-19 | 11 | “Great job, Limi. You kept your mouth open while I counted.” | **Emotional cue:** Off-screen; specific praise. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-20 | 12 | “This little straw takes away extra water.” | **Emotional cue:** Simple explanation. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-21 | 12 | “Would you like to try now?” | **Emotional cue:** Calm permission check. **Delivery:** Keep the pace calm and spacious. Avoid sounding alarmed; the safety comes from steadiness and clarity. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-22 | 13 | “And you did a great job asking questions.” | **Emotional cue:** Proud, warm praise. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
+| MILES-23 | 13 | “That is a great way to learn about something new.” | **Emotional cue:** Reinforces lesson naturally. **Delivery:** Use an easy preschool pace; articulate clearly and leave the thought room to land. **Character intention:** Speak directly to a young child with respect: warm, patient, unhurried, and matter-of-fact; never clinical, sing-song, or patronizing. | ☐ |
 
 ---
 
