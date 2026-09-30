@@ -6,7 +6,7 @@
 **Target runtime:** 6–7 minutes  
 **Core phrase:** “Show me first, then I can try.”
 
-## Recording Instructions
+## Performance Direction Guide
 
 > **Actor note:** The direction for every line now includes three layers: the emotion to play, how to shape the read, and what the character is trying to communicate. Record the words exactly as approved; use the direction to change the performance, not the dialogue.
 
