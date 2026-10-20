@@ -1,0 +1,5 @@
+# New audio and video remain local. Previously tracked files stay tracked.
+*.mp4
+*.mov
+*.wav
+*.mp3
